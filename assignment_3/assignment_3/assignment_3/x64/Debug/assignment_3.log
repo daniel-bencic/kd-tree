@@ -1,0 +1,27 @@
+﻿  main.cpp
+  window.cpp
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(180): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(182): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(183): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(212): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(213): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\kd_tree.hpp(83): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\kd_tree.hpp(81): note: while compiling class template member function 'KD_tree<2>::KD_tree(const Box<2> &,const std::vector<Point<2>,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=Point<2>
+          ]
+  c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(159): note: see reference to function template instantiation 'KD_tree<2>::KD_tree(const Box<2> &,const std::vector<Point<2>,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=Point<2>
+          ]
+  c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\window.cpp(83): note: see reference to class template instantiation 'KD_tree<2>' being compiled
+c:\users\daniel\documents\msi-as\computational_geometry\assignments\assignment_3\assignment_3\assignment_3\kd_tree.hpp(83): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+  assignment_3.vcxproj -> C:\Users\Daniel\Documents\MSI-AS\Computational_Geometry\assignments\assignment_3\assignment_3\x64\Debug\assignment_3.exe
